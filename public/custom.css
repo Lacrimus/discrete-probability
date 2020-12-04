@@ -1,0 +1,37 @@
+
+* {
+    box-sizing: border-box;
+}
+
+/*Color selectors*/
+.custom-bg-main {
+    color:#000 !important;
+    background-color: #90d9f7 !important;
+}
+
+.custom-bg-accent {
+    color:#fff !important;
+    background-color: #001B66 !important;
+}
+
+.custom-brd-main {
+    border-color: #001B66 !important;
+}
+
+.custom-txt-main {
+    color: #001B66 !important;
+}
+.custom-underline-full {
+    border-bottom: 2px dotted;
+    width: auto;
+    display: block;
+}
+
+/*Custom tag selectors*/
+.custom-input {
+    /*derived from w3-input selector - places input inline with the preceding element*/
+    padding:8px;
+    border:none;
+    border-bottom:1px solid #ccc;
+}
+
