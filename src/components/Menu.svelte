@@ -12,12 +12,12 @@
 -->
 
 <header class="w3-container w3-padding-16">
-    <div class="w3-card w3-cell w3-container custom-bg-main">
+    <div class="w3-card w3-cell w3-container w3-round custom-bg-main">
       <h2>Diskrete Wahrscheinlichkeit</h2>
       <h3>Binomialverteilung</h3>
     </div>
-    <div class="w3-section w3-bar">
-      <button class="w3-button custom-bg-main" href="#binom-dist">Binomiale Wahrscheinlichkeitsfunktion</button>
-      <button class="w3-button custom-bg-main" href="#cumulat-dist">Kumulative Wahrscheinlichkeitsfunktion</button> 
+    <div class="w3-section w3-bar w3-round ">
+      <button class="w3-button w3-round custom-bg-main" href="#binom-dist">Binomiale Wahrscheinlichkeitsfunktion</button>
+      <button class="w3-button w3-round custom-bg-main" href="#cumulat-dist">Kumulative Wahrscheinlichkeitsfunktion</button> 
     </div>
 </header>
